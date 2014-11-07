@@ -1,10 +1,10 @@
 # One Month Rails
 
-Pinteresting test read me change!
+Currently taking instruction for this project from the One Month Rails Course
 
-For the sake of a link: 
+All advice/feedback welcome
 
-Click [*here*] (http://chriscerra.com) to go to my film blog
+Thanks
 
-by *Chris Cerra*
+*Chris*
 
